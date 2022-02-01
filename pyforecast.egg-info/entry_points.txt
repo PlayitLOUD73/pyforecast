@@ -1,0 +1,3 @@
+[console_scripts]
+pyforecast = pyforecast:main
+

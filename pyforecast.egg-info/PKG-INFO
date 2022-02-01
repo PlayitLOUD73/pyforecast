@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: pyforecast
+Version: 0.0.1
+Summary: A simple weather program in the terminal
+Home-page: https://github.com/PlayitLOUD73/pyforecast
+Author: Luke Welborn
+Author-email: github@lukewelborn.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: AUTHORS
+
+# pyforecast
+
+A simple weather program in the terminal
+

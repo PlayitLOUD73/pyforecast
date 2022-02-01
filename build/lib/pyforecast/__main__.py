@@ -1,0 +1,3 @@
+import pyforecast
+
+pyforecast.main()
